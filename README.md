@@ -1,4 +1,4 @@
-# Springfox-Swaager
+# Springfox-Swagger
 Adding swagger to spring boot for API documentation
 
 ### Introduction
